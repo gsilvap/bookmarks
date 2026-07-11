@@ -1,0 +1,47 @@
+{
+  "name": "Bookmarks",
+  "children": [
+    {
+      "name": "Development",
+      "type": "folder",
+      "children": [
+        {
+          "name": "GitHub",
+          "type": "bookmark",
+          "url": "https://github.com/",
+          "dateAdded": 1710000000000
+        },
+        {
+          "name": "Stack Overflow",
+          "type": "bookmark",
+          "url": "https://stackoverflow.com/",
+          "dateAdded": 1710000000000
+        }
+      ]
+    },
+    {
+      "name": "Personal",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Google",
+          "type": "bookmark",
+          "url": "https://www.google.com/",
+          "dateAdded": 1710000000000
+        },
+        {
+          "name": "YouTube",
+          "type": "bookmark",
+          "url": "https://www.youtube.com/",
+          "dateAdded": 1710000000000
+        }
+      ]
+    },
+    {
+      "name": "OpenAI",
+      "type": "bookmark",
+      "url": "https://www.openai.com/",
+      "dateAdded": 1710000000000
+    }
+  ]
+}
